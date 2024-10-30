@@ -1,7 +1,6 @@
-# WAD Transition Exercise
+# Web 1 - Transition and Animation Exercise
 
-Create an `index.html` and `styles.scss` and create the transitions/animations listed in the **Tasks**.
-Once you are done, commit and push your changes.
+**Instructions:** Create an `index.html` and `styles.scss` and create the transitions/animations listed in the **Tasks**. Once you are done, commit and push your changes.
 
 ## Tasks
 
